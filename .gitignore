@@ -1,12 +1,5 @@
 # Data files and directories common in repo root
 *.jpg
-*.csv
-
-!data/images/train/ .keep
-!data/images/test/ .keep
-!data/images/ground_truth/ .keep
-!models/ .keep
-!output/ .keep
 
 # Jupyter Notebook
 */.ipynb_checkpoints
